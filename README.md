@@ -1,6 +1,6 @@
 # Zindi-Weekendz
 
-This repository contains the solution to the competiton **Zindi Weekendz: Laduma Analytics Football League Winners Prediction Challenge**
+This repository contains the solution to the competiton **Zindi Weekendz: Laduma Analytics Football League Winners Prediction Challenge** <br>
 This is the link to the competition page: [click here](https://zindi.africa/competitions/zindi-weekendz-laduma-analytics-football-league-winners-prediction-challenge)
 
 ### Solution Outline
